@@ -4,11 +4,11 @@
 
 This repository contains a peer-reviewed publication that develops an
 approach to analyze the safety of maneuvers used for aircraft
-collision avoidance maneuvers. The paper develops detailed mathematics
-for the analysis of vertical maneuvers, describes how they can be
-composed with different types of horizontal maneuvers, and includes
-machine checked proofs that guarantee the safety and correctness of
-this approach. This work was developed as part of the independent
+collision avoidance. The paper develops detailed mathematics for the
+analysis of vertical maneuvers, describes how they can be composed
+with different types of horizontal maneuvers, and includes machine
+checked proofs that guarantee the safety and correctness of this
+approach. This work was developed as part of the independent
 evaluation of the FAA's next-generation air-traffic collision
 avoidance system, ACAS X.
 
